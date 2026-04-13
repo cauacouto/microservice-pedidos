@@ -1,13 +1,25 @@
+
+
 # 📦 Microsserviço de Pedidos
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub repo size](https://img.shields.io/github/repo-size/cauacouto/microservice-pedidos)
-![GitHub stars](https://img.shields.io/github/stars/cauacouto/microservice-pedidos)
-![GitHub last commit](https://img.shields.io/github/last-commit/cauacouto/microservice-pedidos)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-17-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-000?style=for-the-badge&logo=springboot)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+</div>
+
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/cauacouto/microservice-pedidos?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/cauacouto/microservice-pedidos?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/cauacouto/microservice-pedidos?style=for-the-badge)
+
+</div>
 
 Este projeto é um microsserviço responsável pelo gerenciamento de pedidos dentro de uma arquitetura de microsserviços.
 
