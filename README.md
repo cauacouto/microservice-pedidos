@@ -2,7 +2,7 @@
 
 # 📦 Microsserviço de Pedidos
 
-<div align="center">
+
 
 ![Java](https://img.shields.io/badge/Java-17-000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-000?style=for-the-badge&logo=springboot)
@@ -11,15 +11,15 @@
 ![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-</div>
 
-<div align="center">
+
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cauacouto/microservice-pedidos?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/cauacouto/microservice-pedidos?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cauacouto/microservice-pedidos?style=for-the-badge)
 
-</div>
+---
 
 Este projeto é um microsserviço responsável pelo gerenciamento de pedidos dentro de uma arquitetura de microsserviços.
 
